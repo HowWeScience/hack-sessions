@@ -1,4 +1,4 @@
-# How We Science Hack Session 1
+# Hack Session 1
 
 Goals
 ----
